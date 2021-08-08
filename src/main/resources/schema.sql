@@ -1,0 +1,1 @@
+CREATE TABLE article (id bigint(20) primary key auto_increment , title varchar(255), author varchar(255), content varchar(1024));
